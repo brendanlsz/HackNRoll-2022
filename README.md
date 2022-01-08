@@ -1,5 +1,8 @@
 # 2D-MultiAI-PlayGround
 
+## Update (8 Jan 2022)
+This project was judged among the top 8 projects!
+
 ## Prerequisites
 Install the required packages before running our program
 
